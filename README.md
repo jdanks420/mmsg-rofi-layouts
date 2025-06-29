@@ -6,7 +6,7 @@ this script requires mmsg to work 😃
 grab from AUR:
 ```
 yay -S mmsg-git
-``
+```
 or fell free to build it 🧙‍♂️
 
 ```
