@@ -12,3 +12,4 @@ a rofi menu to switch layouts in maomaowm
 chmod +x ~/path/to/scripts/*
 ```
 
+![image](https://github.com/user-attachments/assets/adf3153a-4411-4525-8908-917eaf3e00ff)
