@@ -1,6 +1,19 @@
 # mmsg-rofi-layouts
 a rofi menu to switch layouts in maomaowm
 
+this script requires mmsg to work 😃
+
+grab from AUR:
+```
+yay -S mmsg-git
+``
+or fell free to build it 🧙‍♂️
+```
+git clone https://github.com/DreamMaoMao/mmsg
+cd mmsg
+sudo make install
+```
+
 # how to use
 
 1. download the rofi config to ~/.config/rofi
